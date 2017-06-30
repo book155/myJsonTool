@@ -1,2 +1,3 @@
 @echo off
-print REMINBIN!!!!!!!!!!!!!!!!!!!!
+echo REMINBIN!!!!!!!!!!!!!!!!!!!!
+echo JIYANGYANG make
