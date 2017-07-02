@@ -1,5 +1,5 @@
 @echo off
-for /l %%i in (1,1,200) do (
+for /l %%i in (1,1,100) do (
 echo REMINBIN!!!!!!!!!!!!!!!!!!!!
 echo JIYANGYANG make
 )
